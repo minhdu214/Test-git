@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_c xy dng cho Windows. D dng tm kim trn Google bng mt trnh duyt nhanh v an ton</name>
+   <tag></tag>
+   <elementGuidId>feebbf3d-23ba-46fa-8dab-7c2075e852d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#e6yDCfi3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='e6yDCfi3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bed29439-c82d-40a9-99f9-7ea4f26385a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>e6yDCfi3</value>
+      <webElementGuid>e86d072b-2609-4feb-a7e2-fec938321c84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Được xây dựng cho Windows. Dễ dàng tìm kiếm trên Google bằng một trình duyệt nhanh và an toàn</value>
+      <webElementGuid>296d7759-49ed-4c34-a797-cea3482d72ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e6yDCfi3&quot;)</value>
+      <webElementGuid>11b0f287-c2d3-4357-ab3d-4b8c173fa734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Google/iframe_ng nhp_callout</value>
+      <webElementGuid>61e2f640-2dff-46f9-8277-19bd62a3a60d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='e6yDCfi3']</value>
+      <webElementGuid>2e5aa8db-c8b5-44f3-84ba-7bd6044ae920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div/c-wiz/div/div/div/div[2]/div/p/span</value>
+      <webElementGuid>354150d4-f530-4f50-9df9-4e24e1a37325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google khuyên bạn nên sử dụng Chrome'])[1]/following::span[1]</value>
+      <webElementGuid>8444c660-3143-4766-a09d-fc18eea7c463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Không, cảm ơn'])[1]/preceding::span[1]</value>
+      <webElementGuid>ba532685-1bb8-444a-9bfb-d6889a90bfae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục'])[1]/preceding::span[1]</value>
+      <webElementGuid>0563136d-2261-4406-b52b-52ff2871b87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Được xây dựng cho Windows. Dễ dàng tìm kiếm trên Google bằng một trình duyệt nhanh và an toàn']/parent::*</value>
+      <webElementGuid>87e9bbac-b5e9-468c-9abd-2fbd23fd143b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>ae431f87-d2f2-4244-b379-b8335db2384e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'e6yDCfi3' and (text() = 'Được xây dựng cho Windows. Dễ dàng tìm kiếm trên Google bằng một trình duyệt nhanh và an toàn' or . = 'Được xây dựng cho Windows. Dễ dàng tìm kiếm trên Google bằng một trình duyệt nhanh và an toàn')]</value>
+      <webElementGuid>ac41a6db-1a38-4ec6-a121-225a278c83b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

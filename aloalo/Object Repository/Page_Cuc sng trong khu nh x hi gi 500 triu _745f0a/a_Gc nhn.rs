@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Gc nhn</name>
+   <tag></tag>
+   <elementGuidId>1c2a52ad-af25-46c5-9837-bc1ac4e64a7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Góc nhìn&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='wrap-main-nav']/nav/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>efb1b6ba-1832-4a80-ab16-bfd8faba8493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Góc nhìn</value>
+      <webElementGuid>cdd1c29c-edc3-44ec-8380-f5594a4c7eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/goc-nhin</value>
+      <webElementGuid>7d7714dd-51af-4a96-ba62-910bcc7c219a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-medium</name>
+      <type>Main</type>
+      <value>Menu-GocNhin</value>
+      <webElementGuid>9ff58b3e-3c79-4c05-b71a-ee392ad7d24d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-itm-source</name>
+      <type>Main</type>
+      <value>#vn_source=Detail-ThoiSu_DanSinh-4508908&amp;vn_campaign=Pinbar&amp;vn_medium=Menu-GocNhin&amp;vn_term=Desktop</value>
+      <webElementGuid>eea78f25-736f-4e6f-87c8-e81e92cd7640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-itm-added</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>cf411681-32af-4e7b-86c7-8049b5298588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Góc nhìn </value>
+      <webElementGuid>09b99a47-99e5-41ed-833a-94071fdb4766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrap-main-nav&quot;)/nav[@class=&quot;main-nav&quot;]/ul[@class=&quot;parent&quot;]/li[@class=&quot;gocnhin&quot;]/a[1]</value>
+      <webElementGuid>cd8a1419-f312-46fd-b105-cbeb8e5b2e93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='wrap-main-nav']/nav/ul/li[4]/a</value>
+      <webElementGuid>485a5ebf-e6c0-43fc-b18a-b9bb5617ee4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Góc nhìn')]</value>
+      <webElementGuid>16b0d9da-51f8-4103-8273-0ef98fd055f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quỹ Hy vọng'])[1]/following::a[1]</value>
+      <webElementGuid>c89e5126-820b-4f3d-9869-d7d533f6aa17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mekong'])[1]/following::a[2]</value>
+      <webElementGuid>1e964b53-ef10-4ef4-b6be-9e9cba57560e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bình luận nhiều'])[1]/preceding::a[1]</value>
+      <webElementGuid>de0b9b94-87d2-429b-aa36-241b198dad40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chính trị &amp; chính sách'])[1]/preceding::a[2]</value>
+      <webElementGuid>f46abc18-89e9-4b3c-96e9-0b507b21ced0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Góc nhìn']/parent::*</value>
+      <webElementGuid>07c50d16-5367-4f68-8d5b-9e14f597c6cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/goc-nhin')]</value>
+      <webElementGuid>b90ea4e9-cd96-463c-bec5-714f1ffcf34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>f3521b06-5c20-4939-a715-6d7d6a0af5f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Góc nhìn' and @href = '/goc-nhin' and (text() = '
+Góc nhìn ' or . = '
+Góc nhìn ')]</value>
+      <webElementGuid>39843da4-021b-438a-9566-ac3f270b0e6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cuc sng trong khu nh x hi gi 500 triu ng  TP HCM</name>
+   <tag></tag>
+   <elementGuidId>fec39149-d8c6-4b14-be56-b6d69bcaeeee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Cuộc sống trong khu nhà xã hội giá 500 triệu đồng ở TP HCM&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='dark_theme']/section[6]/div/div/div/div/div/div/ul/li[2]/h3/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8f8ed712-95f0-427c-8956-35348cdd94b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-medium</name>
+      <type>Main</type>
+      <value>Item-3</value>
+      <webElementGuid>329980cb-511f-4227-bfd3-b7bb3c5eb08f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-thumb</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>013ad9bb-04ce-46d3-8468-d78986a13f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://vnexpress.net/cuoc-song-trong-khu-nha-xa-hoi-gia-500-trieu-dong-o-tp-hcm-4508908.html</value>
+      <webElementGuid>80277846-ed17-4b91-b36d-9746f76328af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Cuộc sống trong khu nhà xã hội giá 500 triệu đồng ở TP HCM</value>
+      <webElementGuid>98e2c2f0-9bdd-4c78-acf6-77353acefc87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-itm-source</name>
+      <type>Main</type>
+      <value>#vn_source=Folder-ThoiSu&amp;vn_campaign=Stream&amp;vn_medium=Item-3&amp;vn_term=Desktop&amp;vn_thumb=0</value>
+      <webElementGuid>6418df22-81ad-432e-a9fa-9888121d618e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-itm-added</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>bc0ef489-07e2-4b5a-a574-021ad2c5217b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cuộc sống trong khu nhà xã hội giá 500 triệu đồng ở TP HCM</value>
+      <webElementGuid>32cdd18e-d100-4bb6-a4e7-58d6bfefc6e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dark_theme&quot;)/section[@class=&quot;section section_topstory section_topstory_folder&quot;]/div[@class=&quot;container flexbox&quot;]/div[@class=&quot;col-left-top&quot;]/div[@class=&quot;wrapper-topstory-folder flexbox width_common wrapper-topstory-folder-v2&quot;]/div[@class=&quot;sub-news-top&quot;]/div[@class=&quot;inner-sub-news-top&quot;]/div[@class=&quot;scroll-sub-featured&quot;]/ul[@class=&quot;list-sub-feature&quot;]/li[2]/h3[@class=&quot;title_news&quot;]/a[1]</value>
+      <webElementGuid>2a4142c6-ebf9-4d8a-bbb8-d5fbb24c7b34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='dark_theme']/section[6]/div/div/div/div/div/div/ul/li[2]/h3/a</value>
+      <webElementGuid>b7f76a8e-bc95-4425-afb8-3f8e6ac8942e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cuộc sống trong khu nhà xã hội giá 500 triệu đồng ở TP HCM')]</value>
+      <webElementGuid>094a354c-65d8-4351-a02d-045f2da1a45a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hà Nội'])[1]/following::a[2]</value>
+      <webElementGuid>1e4a016e-df41-4b4a-981b-9b5a3b445949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Người dân ngoại thành Hà Nội chạy lũ'])[1]/following::a[3]</value>
+      <webElementGuid>d8503d22-74fc-4661-9f3a-062138319488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhiều điểm hư hỏng ở cao tốc Nội Bài - Lào Cai'])[1]/preceding::a[3]</value>
+      <webElementGuid>fb6da005-629d-4606-b0bf-e3a27fac44e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', &quot;'&quot;, 'Sống treo', &quot;'&quot;, ' ở dự án 4 tỷ USD')])[1]/preceding::a[7]</value>
+      <webElementGuid>50d64143-2770-4a8d-b9bc-e879a368eb5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cuộc sống trong khu nhà xã hội giá 500 triệu đồng ở TP HCM']/parent::*</value>
+      <webElementGuid>d77bd138-4179-417e-896e-1c016b9056cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://vnexpress.net/cuoc-song-trong-khu-nha-xa-hoi-gia-500-trieu-dong-o-tp-hcm-4508908.html')]</value>
+      <webElementGuid>53c359ac-d061-46e9-aefb-a8cee6476ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/h3/a</value>
+      <webElementGuid>169ca85b-2092-4414-971a-0ee6d5d6c9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://vnexpress.net/cuoc-song-trong-khu-nha-xa-hoi-gia-500-trieu-dong-o-tp-hcm-4508908.html' and @title = 'Cuộc sống trong khu nhà xã hội giá 500 triệu đồng ở TP HCM' and (text() = 'Cuộc sống trong khu nhà xã hội giá 500 triệu đồng ở TP HCM' or . = 'Cuộc sống trong khu nhà xã hội giá 500 triệu đồng ở TP HCM')]</value>
+      <webElementGuid>fc08adc5-7144-4fca-844f-d70439e0fcaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

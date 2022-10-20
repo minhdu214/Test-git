@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_150 Apple Gift Card</name>
+   <tag></tag>
+   <elementGuidId>d169f229-44db-47d8-b0a8-5e4ecd0990c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.dd-highlight-mac</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-1']/div/div/h2/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6c7e9a09-1e57-487e-9e64-7efa8b3d0edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dd-highlight-mac</value>
+      <webElementGuid>486760c3-4e2f-460a-b505-4318af8fbad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$150 Apple Gift Card</value>
+      <webElementGuid>b4bc020f-10ae-4370-8ec6-de5f1406461d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-1&quot;)/div[@class=&quot;dd-l-plate&quot;]/div[@class=&quot;dd-billboard-info&quot;]/h2[@class=&quot;dd-billboard-header dd-compact-small-0 dd-compact-right-small-15&quot;]/span[@class=&quot;dd-highlight-mac&quot;]</value>
+      <webElementGuid>a975b267-3980-413e-92d0-b35d2e849e90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-1']/div/div/h2/span[2]</value>
+      <webElementGuid>9d205592-2062-4275-9748-f8b088660c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='footnote'])[4]/following::span[1]</value>
+      <webElementGuid>d4b5b935-e789-4ef9-9b61-8973f0be10ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='footnote'])[5]/preceding::span[1]</value>
+      <webElementGuid>f660913d-6795-421c-8679-929921a2d8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MacBook Air'])[1]/preceding::span[2]</value>
+      <webElementGuid>c098ccc6-85c2-4a52-bbd0-6f43e6b73a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$150 Apple Gift Card']/parent::*</value>
+      <webElementGuid>173c8743-2d7b-4b55-a282-db3795f08497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/span[2]</value>
+      <webElementGuid>c6cf63fe-6d08-4c88-a6de-2333b5a99d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$150 Apple Gift Card' or . = '$150 Apple Gift Card')]</value>
+      <webElementGuid>1a43a81f-230c-49a2-9404-c6b3d844d2ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

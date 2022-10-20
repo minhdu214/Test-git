@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Tin tc thi s 24h nng, mi nht trong ngy hm nay</name>
+   <tag></tag>
+   <elementGuidId>9dc5cd83-e210-40a7-b13d-74da5fd25ce7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rso']/div[2]/div/div/div/div/a/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>16b26cec-cf9d-4322-b3c7-27d1fec4c2db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>728d20fa-6ac4-4c35-9ff3-8a9a910c4639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tin tức thời sự 24h nóng, mới nhất trong ngày hôm nay</value>
+      <webElementGuid>1d1131c4-fac9-4559-84be-d4d6f8299719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;MjjYud&quot;]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc&quot;]/div[@class=&quot;kvH3mc BToiNc UK95Uc&quot;]/div[@class=&quot;Z26q7c UK95Uc uUuwM jGGQ5e&quot;]/div[@class=&quot;yuRUbf&quot;]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>12797a83-9e7f-4634-8fbd-6d7fc74e3ef7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div[2]/div/div/div/div/a/h3</value>
+      <webElementGuid>d5566238-5a81-432d-956a-b5eb17f90783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem tất cả'])[1]/following::h3[1]</value>
+      <webElementGuid>2a499f31-5943-4c29-8bf0-56c6ff9e8a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='› thoi-su'])[1]/preceding::h3[1]</value>
+      <webElementGuid>9a6a8396-f989-4169-9be0-7298d609623d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tin tức thời sự 24h nóng, mới nhất trong ngày hôm nay']/parent::*</value>
+      <webElementGuid>9e1fbb44-e387-4a72-8922-f586cf61fa00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/h3</value>
+      <webElementGuid>44f7c183-cafe-4cc7-8a19-305428eed648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Tin tức thời sự 24h nóng, mới nhất trong ngày hôm nay' or . = 'Tin tức thời sự 24h nóng, mới nhất trong ngày hôm nay')]</value>
+      <webElementGuid>ea542db5-46f3-4f5a-93d7-6748abd0fd51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

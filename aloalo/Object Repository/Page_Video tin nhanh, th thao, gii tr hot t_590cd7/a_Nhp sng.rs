@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nhp sng</name>
+   <tag></tag>
+   <elementGuidId>aba0ddc6-8d23-4c8a-965f-1028442d1177</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mn_1004075 > a[title=&quot;Nhịp sống&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='mn_1004075']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>437fbac6-3398-4736-b251-12a4a9d556a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-medium</name>
+      <type>Main</type>
+      <value>Menu-NhipSong</value>
+      <webElementGuid>a9b4aa78-250c-4bd4-b5dd-5597fdab5583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/nhip-song</value>
+      <webElementGuid>af26fe5a-46f1-467f-8330-bcad93e13755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Nhịp sống</value>
+      <webElementGuid>8c0654d5-6d37-4d89-9798-b54dca2c5b34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-itm-source</name>
+      <type>Main</type>
+      <value>#vn_source=Folder&amp;vn_campaign=Sidebar&amp;vn_medium=Menu-NhipSong&amp;vn_term=Desktop&amp;vn_aid=1003834</value>
+      <webElementGuid>9f67647e-4e70-41ee-b507-c39c88658977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nhịp sống</value>
+      <webElementGuid>017f154c-5163-4ce7-b6d8-4a7ed40c9b78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mn_1004075&quot;)/a[1]</value>
+      <webElementGuid>666c9864-75e1-4dfa-8129-75354c87bf39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mn_1004075']/a</value>
+      <webElementGuid>f1af8593-ca79-4059-b8ac-737048cf823a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Nhịp sống')])[2]</value>
+      <webElementGuid>0863f008-6a34-45eb-ac51-5b4e46664f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thời sự'])[7]/following::a[1]</value>
+      <webElementGuid>0bb60106-c702-4a07-8d07-140e9a7e3f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::a[2]</value>
+      <webElementGuid>f9e3fdb1-1d60-4ac9-a7c3-e270ef065e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Food'])[1]/preceding::a[1]</value>
+      <webElementGuid>fc690fa6-c950-4b48-bbbf-0d40e7a3b6d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tôi kể'])[1]/preceding::a[2]</value>
+      <webElementGuid>fcceb3f7-cb04-4830-99ef-3d7390bee2bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/nhip-song')])[4]</value>
+      <webElementGuid>f90d5dcb-9f3a-4af9-86ec-05c8bc71ad97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div/ul/li[2]/a</value>
+      <webElementGuid>3703ff88-ce3c-4084-af81-175739d7e507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/nhip-song' and @title = 'Nhịp sống' and (text() = 'Nhịp sống' or . = 'Nhịp sống')]</value>
+      <webElementGuid>b3f6bda7-9c1d-48fd-ad54-72972a96fa1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
